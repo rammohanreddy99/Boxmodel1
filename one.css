@@ -1,0 +1,17 @@
+.container{
+    width: 1450px;
+    border-radius: 10px;
+    border-style: solid;
+    padding-left: 70px;
+}
+section{
+    display: inline-block;
+    width: 300px;
+    padding: 10px;
+    vertical-align: top;
+    padding: 20px;
+}
+h1{
+    display: block;
+    padding-left: 90px;
+}
